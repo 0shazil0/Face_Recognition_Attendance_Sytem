@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/0shazil0" target="_blank">
-        <img src="" 
+        <img src="https://github.com/0shazil0/Face_Recognition_Attendance_Sytem/blob/main/misc/app.png" 
         alt="Logo" width="500" height="350">
     </a>
 </div>
